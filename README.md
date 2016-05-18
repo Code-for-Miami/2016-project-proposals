@@ -2,7 +2,7 @@
 
 ## June 4 @ The IDEA Center, Miami-Dade College 
 
-- [:rocket: Register as a Participant](http://atxhackforchange.org/attend.html)
+- [:rocket: Register as a Participant](https://www.eventbrite.com/e/national-day-of-civic-hacking-with-code-for-miami-tickets-24942287052)
 - [:bulb: Browse and Discuss Projects](https://github.com/miami-ndoch/2016-project-proposals/issues)
 - [:star2: Propose a Project](https://github.com/miami-ndoch/2016-project-proposals/issues/new)
 

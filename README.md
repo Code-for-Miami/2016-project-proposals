@@ -6,7 +6,7 @@
 - [:bulb: Browse and Discuss Projects](https://github.com/miami-ndoch/2016-project-proposals/issues)
 - [:star2: Propose a Project](https://github.com/miami-ndoch/2016-project-proposals/issues/new)
 
-If you need help or have some specific questions, email co-captains [Cristina](mailto:csolana@codeforamerica.org), [Ernie](mailto:ehsiung@codeforamerica.org), or [Danielle](mailto:dungermann@codeforamerica.org).
+If you need help or have some specific questions, email co-captains [Cristina](mailto:csolana@codeforamerica.org), [Ernie](mailto:ehsiung@codeforamerica.org), or [Danielle](mailto:dungermann@codeforamerica.org). You can also [invite yourself](http://cfm-invite.slack.com) to the [Code for Miami Slack group](http://codeformiami.slack.com)! We will be on channel `#ndoch`.
 
 ## Wondering how to propose or discuss your project ideas?
 

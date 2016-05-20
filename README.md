@@ -18,3 +18,7 @@ If you need help or have some specific questions, email co-captains [Cristina](m
 If you see an idea that you're interested in, click on it, read the discussion and then add your thoughts to the bottom of the discussion thread. If you don't see the idea you have in mind, [add a new one](https://github.com/miami-ndoch/2016-project-proposals/issues/new). Someone from the Miami NDOCH Staff will respond with some questions or feedback.
 
 *Here's a [quick video intro](https://www.youtube.com/watch?v=KlrJVSJRUN4) on using Github Issues for discussion.*
+
+### Don't know where to start on ideas?
+
+Check out the [Official Challenges](https://github.com/miami-ndoch/2016-project-proposals/issues?q=is%3Aissue+is%3Aopen+label%3A%22OFFICIAL+CHALLENGE%22) given to us by the National Day of Civic Hacking. You may also find [this article from the Miami Herald](http://www.miamiherald.com/news/local/community/miami-dade/article76802747.html) on issues that people in Miami-Dade County are concerned about.

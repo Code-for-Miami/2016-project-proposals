@@ -8,5 +8,5 @@ Liberty (Liber-P) | Jean Claude | NA | Campaign for inmates access to informatio
 Incorporated | Kath, Edwin, Kelvin | NA | Facilitate the process for registering a businesses in Miami using a AI bot in Facebook Messenger | Web, Python, Javascript
 Miami-Dade Geo | Bryce and Diago | https://github.com/bkerley/miami_dade_geo | Converts NAD83 State Plane Coordinates | Ruby
 LRB | Jason Zoladz | NA | National Labor Relations Board Registration Site | Haskell
-Promise Zone Visualization | https://github.com/nkcmr/cfm-promise-zones | Visualize and Compare Promise Zones to USA County Date | PHP, JavaScript
-Miami Open211	Greg Bloom | https://github.com/Code-for-Miami/ohana-api https://github.com/code-for-miami/ohana-web-search" | Developing an open platform to share information about community resources available to miami residents in need. | NA
+Promise Zone Visualization |  | https://github.com/nkcmr/cfm-promise-zones | Visualize and Compare Promise Zones to USA County Date | PHP, JavaScript
+Miami Open211 | Greg Bloom | https://github.com/Code-for-Miami/ohana-api https://github.com/code-for-miami/ohana-web-search" | Developing an open platform to share information about community resources available to miami residents in need. | NA
